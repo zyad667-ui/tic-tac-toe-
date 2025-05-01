@@ -8,10 +8,6 @@ Un petit projet **Tic Tac Toe** (Morpion) développé en **HTML**, **CSS** et **
 
 ## 📂 Structure du projet
 /pubic │ ├── css/ │ └── app.css ← Style du jeu │ ├── js/ │ └── app.js ← Logique JavaScript │ └── index.html ← Fichier principal HTML
-
-
-
-
 ---
 
 ## ▶️ Fonctionnalités
@@ -42,10 +38,7 @@ Un petit projet **Tic Tac Toe** (Morpion) développé en **HTML**, **CSS** et **
 
 ---
 
-## 📸 Capture d'écran *(optionnel)*
-> Tu peux ajouter une capture ici pour montrer l'interface utilisateur.
 
----
 
 ## 🚀 Comment lancer le projet
 
